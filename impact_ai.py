@@ -2,11 +2,11 @@
 # Total no of class days = N-1
 # suppose N=5
 
-# No of class days = 4
+# No of class days = 4 
 
 # consider 1 as present and 0 as absent.
 
-# Different ways  to attend class in 4 days = 0000,0001,0010,0011,0100,0101,0110,0111,1000,1001,1010,1011,1100,1101,1110,1111
+# Different ways  to attend class in 4 days are = 0000,0001,0010,0011,0100,0101,0110,0111,1000,1001,1010,1011,1100,1101,1110,1111
 
 # Here 0000 will be avoided.
 
